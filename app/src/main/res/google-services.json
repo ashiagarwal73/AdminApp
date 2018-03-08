@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "858937786928",
+    "firebase_url": "https://prodigy-18.firebaseio.com",
+    "project_id": "prodigy-18",
+    "storage_bucket": "prodigy-18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858937786928:android:127913a14eafa4fa",
+        "android_client_info": {
+          "package_name": "com.agarwal.ashi.prodigy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858937786928-d7p3fvaamsiemm0duvgr2sbasm1dqkvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4NOK3pEt8XLGK06PAv9lsXv29ur0DEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858937786928:android:a5e8143c39161d8b",
+        "android_client_info": {
+          "package_name": "com.agarwal.ashi.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858937786928-d7p3fvaamsiemm0duvgr2sbasm1dqkvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4NOK3pEt8XLGK06PAv9lsXv29ur0DEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
